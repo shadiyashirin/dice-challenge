@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 8rem;
+    text-align: center;
+    font-weight: 1500;
+}
+
+h3{
+    color: aquamarine;
+}
+
+.dice{
+    display: inline-block;
+    margin: 2%;
+}
+
+
+.whole{
+    text-align: center;
+    justify-content: right;
+}
+
+.btn
+{
+    position: relative;
+    left: 50%;
+    padding: 8px 40px 8px 40px;
+    border-radius: 10%;
+    font-weight: 900;
+}
+
+.btn:hover{
+    color: white;
+    background-color: aquamarine
+    ;
+}
